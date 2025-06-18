@@ -1,0 +1,4 @@
+{
+    "testRepo": "count-trailing-zeros-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
